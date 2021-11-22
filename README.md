@@ -3,5 +3,5 @@
 SELECT *
 FROM films
 LIMIT 10
-WHERE release_year==2016
+WHERE release_year=2016
 ```
